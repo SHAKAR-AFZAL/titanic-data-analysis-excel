@@ -119,9 +119,8 @@ The Excel dashboard displays:
 - Age group distribution  
 - Interactive filtering for deeper exploration  
 
-<img width="1600" height="837" alt="Dashboard Image" src="https://github.com/user-attachments/assets/c3136a6a-2d2a-4970-ad96-421c22bc8d32" />
+---![Dashboard Image](https://github.com/user-attachments/assets/27b1a26f-e465-4228-bd3c-4712cf7f09fd)
 
----
 
 ## Conclusion
 The Titanic dataset reveals strong survival disparities based on **gender**, **passenger class**, and **age**. Female and first-class passengers had significantly higher survival probabilities, while lower-class male passengers were the most vulnerable group.
