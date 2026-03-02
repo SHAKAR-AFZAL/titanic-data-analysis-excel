@@ -119,7 +119,8 @@ The Excel dashboard displays:
 - Age group distribution  
 - Interactive filtering for deeper exploration  
 
----![Dashboard Image](https://github.com/user-attachments/assets/27b1a26f-e465-4228-bd3c-4712cf7f09fd)
+
+<img width="1516" height="850" alt="Dashboard Picture" src="https://github.com/user-attachments/assets/5179b2e4-9c8d-47ea-8817-ab6c1fa705fc" />
 
 
 ## Conclusion
