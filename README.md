@@ -100,7 +100,7 @@ The Titanic dataset is stored in Excel format and includes the following attribu
 ### Age Group Patterns
 - The **19–29 years** age group has the highest passenger count.  
 - Younger children show relatively better survival chances than adult males.  
-- Elderly passenger counts are very low in the dataset.
+- Elderly passengers count are very low in the dataset.
 
 ### Survival by Age
 - Survival rates vary across age groups.  
