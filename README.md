@@ -94,7 +94,7 @@ The Titanic dataset is stored in Excel format and includes the following attribu
 
 ### Class-Based Analysis
 - **Lower-class passengers** had the highest number of passengers and deaths.  
-- **First-class passengers** had better survival chances.  
+- **First-class passengers** had the better survival chances.  
 - Passenger class strongly influenced survival probability.
 
 ### Age Group Patterns
