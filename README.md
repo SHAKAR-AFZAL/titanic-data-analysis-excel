@@ -44,7 +44,7 @@ The Titanic dataset is stored in Excel format and includes the following attribu
 - Passenger Class  
 - Gender  
 - Age  
-- Age Range (created)  
+- Age Range  
 - Survival Status  
 - Passengers Count  
 
