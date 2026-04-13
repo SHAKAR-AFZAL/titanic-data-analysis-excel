@@ -39,7 +39,7 @@ The primary goals of this project are
 ## Dataset 
 🗂️ <a href="https://github.com/SHAKAR-AFZAL/titanic-data-analysis-excel/blob/main/Titanic%20Dataset.xls">Dataset View</a>  
 
-The Titanic dataset is stored in Excel format and includes the following attributes:
+The Titanic dataset is stored in the Excel format and includes the following attributes:
 
 - Passenger Class  
 - Gender  
