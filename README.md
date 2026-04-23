@@ -71,7 +71,7 @@ The Titanic dataset is stored in the Excel format and includes the following att
 
 **Key Visuals**
 - Total Passenger KPI  
-- Survival vs Not Survived Donut Charts  
+- Survival vs Not Survived 
 - Passengers by Class  
 - Passengers by Gender  
 - People by Age Distribution  
