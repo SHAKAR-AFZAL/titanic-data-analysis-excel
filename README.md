@@ -1,4 +1,4 @@
-# 🚢 RMS Titanic Data Analysis Dashboard 
+# RMS Titanic Data Analysis Dashboard 
 
 _Analyzing the Titanic passenger data to uncover the survival patterns and demographic trends to support data-driven insights using Microsoft Excel._
 
