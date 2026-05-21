@@ -19,7 +19,7 @@ _Analyzing the Titanic passenger data to uncover the survival patterns and the d
 ---
 
 ## Overview
-This project focuses on analyzing the Titanic dataset to understands the passenger demographics and survival behavior. An interactive Excel dashboard was developed to transform raw passenger data into meaningful visual insights for analytical and business-style understanding.
+This project focuses on analyzing the Titanic dataset to understands the passenger demographics and survival behavior. An interactive Excel dashboard was developed to transform the raw passenger data into meaningful visual insights for analytical and business-style understanding.
 
 The dashboard highlights that how the factors such as gender, age, and passenger class influenced survival outcomes.
 
