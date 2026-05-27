@@ -1,4 +1,4 @@
-# Titanic Data Analysis Dashboard 
+# Titanic Data Analysis & Dashboard 
 
 _Analyzing the Titanic passenger data to uncover the survival patterns and the demographic trends to support the data-driven insights using Microsoft Excel._
 
