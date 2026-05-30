@@ -114,7 +114,7 @@ The Titanic dataset is stored in the Excel format and includes the following att
 The Excel dashboard displays:
 
 - Passenger survival distribution  
-- Class-wise passenger comparison  
+- Class wise passenger comparison  
 - Gender survival analysis  
 - Age group distribution  
 - Interactive filtering for deeper exploration  
